@@ -1,0 +1,5 @@
+# ignore the data directory in this folder
+data/
+
+# also ignore the logs
+logs/

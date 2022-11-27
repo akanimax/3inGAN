@@ -1,0 +1,5 @@
+# ignore the data directory
+data/
+
+# ignore the analysis notebooks directory
+analysis_notebooks/
